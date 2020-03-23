@@ -38,7 +38,7 @@ where the `a` is the bandwidth of taper and `n` is the number of sample that wan
 2. Math
 3. Matplotlib
 # CREATED BY
-Aulia Khalqillah,S.Si.,M.Si(2020)
+Aulia Khalqillah,S.Si.,M.Si.(2020)
 Email: auliakhalqillah.mail@gmail.com
 # SOURCE
 Marco Pilz and Stefano Parolai,Helmholtz Centre Potsdam, GFZ <br>[Tapering of windowed time series (DOI: 10.2312/GFZ.NMSOP-2_IS_14.1)](http://gfzpublic.gfz-potsdam.de/pubman/faces/viewItemOverviewPage.jsp?itemId=escidoc:56141)
