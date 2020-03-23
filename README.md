@@ -1,15 +1,15 @@
 # COSWINDOW
-This program is used to generate cos window function through the function of
+This program is used to generate cosine window function through the function of
 `coswindow`. The function has been tested in Python 3.7.
 # INSTALL
-Go to the `coswin_pkg` folder through terminal and type the following command in your terminal:
+Go to the `coswindow-master` folder through terminal and type the following command in your terminal:
 ```
 python3 setup.py
 ```
 # USAGE
 To use this function, you can type the following command:
 ```
-from coswindow import coswindow
+from coswindow import coswin
 ...
 ...
 ...
