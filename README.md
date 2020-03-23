@@ -7,12 +7,12 @@ This program is used to generate cosine window function through the function of
 ```
 python3 setup.py install --record installpath.txt
 ```
-it will generate `installpath.txt` file as information where the library of coswin is
+  it will generate `installpath.txt` file as information where the library of coswin is<br>
 3. Check the module of `coswin` by running file `run_coswindow.py` inside `test` folder through terminal:
 ```
 python3 run_coswindow.py
 ```
-it will show input parameter from the user as follows:
+it will show input parameter for the user as follows:
 ```
 ---------------
 INPUT PARAMETER
